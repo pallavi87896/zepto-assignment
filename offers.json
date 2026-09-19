@@ -1,28 +1,160 @@
 [
   {
-    "bank_or_card": "SBI",
-    "headline": "Flat ₹1,500 Off with SBI Credit Cards.",
-    "condition": "- Valid on purchases of AirPods 5 Series using an eligible SBI Credit Card.\n- Offer valid while stocks last.\n- Offer is not applicable on cancelled or refunded transactions.\n- Zepto reserves the right to modify or revoke the offer and its Terms & Conditions at any time without prior notice.\n- Other standard T&Cs may apply.",
-    "promo_code": "ZEPAIRSBIC",
-    "status": "Locked"
+    "bank_or_card": "IDFC FIRST Bank",
+    "headline": "Save ₹125!",
+    "description": "Flat ₹125 Off with IDFC FIRST Bank Debit Cards",
+    "condition": null,
+    "promo_code": "ZEPIDFCDC",
+    "status": "Apply"
   },
   {
-    "bank_or_card": "ICICI",
-    "headline": "Flat ₹1,500 Off ICICI Bank Credit Card.",
-    "condition": "- Valid on purchases of AirPods 5 Series using an eligible ICICI Bank Credit Card.\n- Offer valid while stocks last.\n- Offer is not applicable on cancelled or refunded transactions.\n- Zepto reserves the right to modify or revoke the offer and its Terms & Conditions at any time without prior notice.\n- Other standard T&Cs may apply.",
-    "promo_code": "ZEPAIRICICI",
-    "status": "Locked"
+    "bank_or_card": "SBI Visa Infinite, Signature, Platinum & Business Platinum",
+    "headline": "Save ₹161!",
+    "description": "Flat 25% off up to ₹200 with SBI Visa Infinite, Signature, Platinum & Business Platinum Debit Cards",
+    "condition": "- Offer applicable on SBI Visa Infinite, Signature, Platinum and Business Platinum Debit Cards\n- Offer is valid on orders above Rs. 599\n- Offer is valid only once per card per user per month\n- Other T&C may apply",
+    "promo_code": "SBIVISADC25",
+    "status": "Apply"
+  },
+  {
+    "bank_or_card": "Punjab National Bank",
+    "headline": "Save ₹96!",
+    "description": "Flat 15% off with Punjab National Bank Credit Cards",
+    "condition": "- Offer is valid twice per card per month\n- Valid on Punjab National Bank Credit Cards only\n- Terms and conditions apply",
+    "promo_code": "ZEPPNBCC",
+    "status": "Apply"
+  },
+  {
+    "bank_or_card": "SBI Mastercard",
+    "headline": "Save ₹100!",
+    "description": "Flat ₹100 off with SBI Mastercard Debit Card",
+    "condition": "- Offer is applicable only on select Mastercard SBI Debit Cards\n- Offer is valid on orders above ₹399\n- Offer is valid only thrice per card per user\n- Other terms and conditions may apply",
+    "promo_code": "ZEPMASBIDC100",
+    "status": "Apply"
+  },
+  {
+    "bank_or_card": "Visa Platinum",
+    "headline": "Save ₹75!",
+    "description": "Flat ₹75 off with Visa Platinum Debit Cards.",
+    "condition": "- Offer applicable once per user per month on Platinum Debit Cards.\n\n- Valid only on the Zepto App in cities where Zepto operates.\n\n- Zepto reserves the right to modify or revoke the offer and its terms at any time without prior notice.\n\n- Standard terms and conditions apply.",
+    "promo_code": "VISAPLATINUMDC",
+    "status": "Apply"
+  },
+  {
+    "bank_or_card": "AU",
+    "headline": "Save ₹50!",
+    "description": "Flat ₹50 off with AU credit cards",
+    "condition": "- Offer applicable once per user\n- Offer valid once per card per month\n- Offer valid for orders above ₹500\n- Other T&C may apply",
+    "promo_code": "ZEPAUCC",
+    "status": "Apply"
+  },
+  {
+    "bank_or_card": "IDBI Bank",
+    "headline": "Save ₹64!",
+    "description": "Get 10% off up to ₹100 with IDBI Bank Debit Cards",
+    "condition": "- Applicable once per card, per user\n- Valid on IDBI Debit Cards\n- Other terms and conditions apply",
+    "promo_code": "ZEPIDBIDC",
+    "status": "Apply"
+  },
+  {
+    "bank_or_card": "IDBI Bank",
+    "headline": "Save ₹64!",
+    "description": "Get flat 10% up to ₹100 off with IDBI Bank Credit Cards",
+    "condition": "- Applicable once per card, per user\n- Valid on IDBI Credit Cards\n- Other terms and conditions apply",
+    "promo_code": "ZEPIDBICC",
+    "status": "Apply"
+  },
+  {
+    "bank_or_card": "Indian Overseas Bank",
+    "headline": "Save ₹96!",
+    "description": "Get Flat 15% off with Indian Overseas Bank Credit Cards",
+    "condition": "- Offer is valid twice per card per month\n- The maximum discount available is ₹100\n- Valid on Indian Overseas Bank Credit cards only\n- Additional T&C may apply",
+    "promo_code": "ZEPIOBCC",
+    "status": "Apply"
+  },
+  {
+    "bank_or_card": "Indian Bank",
+    "headline": "Save ₹96!",
+    "description": "Get 15% up to ₹120 off with Indian Bank Credit Cards",
+    "condition": "- Offer applicable only twice per user in a calendar month\n- Offer is valid on orders above ₹299\n- Max Discount offered will be ₹120\n- Terms and conditions apply",
+    "promo_code": "INDIANBANKCC",
+    "status": "Apply"
+  },
+  {
+    "bank_or_card": "SBI Visa Global / Classic & Gold",
+    "headline": "Save ₹96!",
+    "description": "Get 15% off with SBI Visa Global / Classic & Gold Debit Cards",
+    "condition": "- Offer is applicable only on SBI Visa Global / Classic & Gold Debit Cards\n- Offer is valid on orders above ₹599\n- Offer is valid only once per card per user per month\n- Other T&C may apply",
+    "promo_code": "SBIVISADC15",
+    "status": "Apply"
+  },
+  {
+    "bank_or_card": "AU Ivy, Eternity, Royale & M Circle Program",
+    "headline": "Save ₹96!",
+    "description": "Get 15% off with AU Ivy, Eternity, Royale & M Circle Program Debit Cards",
+    "condition": "- Offer applicable once per user\n- Offer valid once per card per month\n- Offer valid on AU ivy, Eternity, Royale & M circle linked Debit Cards\n- Offer valid for orders above ₹599\n- Other T&C may apply",
+    "promo_code": "ZEPAUDC",
+    "status": "Apply"
+  },
+  {
+    "bank_or_card": "Visa Classic",
+    "headline": "Save ₹75!",
+    "description": "Flat ₹75 off with Visa Classic Debit Cards.",
+    "condition": "- Offer applicable once per user per month on Classic Debit Cards.\n\n- Valid only on the Zepto App in cities where Zepto operates.\n\n- Zepto reserves the right to modify or revoke the offer and its terms at any time without prior notice.\n\n- Standard terms and conditions apply.",
+    "promo_code": "VISACLASSICDC",
+    "status": "Apply"
+  },
+  {
+    "bank_or_card": "Jana Bank",
+    "headline": "Save ₹64!",
+    "description": "Get 10% off up to ₹100 with Jana Bank Debit Cards",
+    "condition": "- Offer applicable only on RuPay Select and Rupay Platinum Debit Cards\n- Offer applicable only once per user per month\n- Offer valid only once per card per month\n- Offer valid only on orders above ₹500\n- Other Terms & Conditions Apply",
+    "promo_code": "ZEPJANA",
+    "status": "Apply"
+  },
+  {
+    "bank_or_card": "Novio",
+    "headline": "Save ₹50!",
+    "description": "Get ₹50 off with Novio Credit Card",
+    "condition": "Valid on orders above ₹499",
+    "promo_code": "NOVIO50",
+    "status": "Apply"
+  },
+  {
+    "bank_or_card": "IDFC FIRST SWYP",
+    "headline": "Save ₹50!",
+    "description": "Get 10% off up to ₹50 with IDFC FIRST SWYP Credit Card",
+    "condition": "- Offer applicable once per user\n- Valid only on IDFC FIRST SWYP Credit Card\n- Other T&C may apply",
+    "promo_code": "ZEPTOSWYP",
+    "status": "Apply"
   },
   {
     "bank_or_card": "Axis Bank",
     "headline": "Flat ₹1,500 Off with Axis Bank Credit Card.",
+    "description": "Flat ₹1,500 Off with Axis Bank Credit Card.",
     "condition": "- Valid on purchases of AirPods 5 Series using an eligible Axis Bank Credit Card.\n- Offer valid while stocks last.\n- Offer is not applicable on cancelled or refunded transactions.\n- Zepto reserves the right to modify or revoke the offer and its Terms & Conditions at any time without prior notice.\n- Other standard T&Cs may apply.",
     "promo_code": "ZEPAIRAXIS",
     "status": "Locked"
   },
   {
     "bank_or_card": "SBI",
+    "headline": "Flat ₹1,500 Off with SBI Credit Cards.",
+    "description": "Flat ₹1,500 Off with SBI Credit Cards.",
+    "condition": "- Valid on purchases of AirPods 5 Series using an eligible SBI Credit Card.\n- Offer valid while stocks last.\n- Offer is not applicable on cancelled or refunded transactions.\n- Zepto reserves the right to modify or revoke the offer and its Terms & Conditions at any time without prior notice.\n- Other standard T&Cs may apply.",
+    "promo_code": "ZEPAIRSBIC",
+    "status": "Locked"
+  },
+  {
+    "bank_or_card": "ICICI Bank",
+    "headline": "Flat ₹1,500 Off ICICI Bank Credit Card.",
+    "description": "Flat ₹1,500 Off ICICI Bank Credit Card.",
+    "condition": "- Valid on purchases of AirPods 5 Series using an eligible ICICI Bank Credit Card.\n- Offer valid while stocks last.\n- Offer is not applicable on cancelled or refunded transactions.\n- Zepto reserves the right to modify or revoke the offer and its Terms & Conditions at any time without prior notice.\n- Other standard T&Cs may apply.",
+    "promo_code": "ZEPAIRICICI",
+    "status": "Locked"
+  },
+  {
+    "bank_or_card": "SBI",
     "headline": "Flat ₹6,000 Off with SBI Credit Cards",
+    "description": "Flat ₹6,000 Off with SBI Credit Cards",
     "condition": "- Valid on purchases of iPhone 18 Pro and Pro Max models using an eligible SBI Credit Cards.\n- Offer valid while stocks last.\n- Offer is not applicable on cancelled or refunded transactions.\n- Zepto reserves the right to modify or revoke the offer and its Terms & Conditions at any time without prior notice.\n- Other standard T&Cs may apply.",
     "promo_code": "ZEPIPHONESBIC",
     "status": "Locked"
@@ -30,83 +162,63 @@
   {
     "bank_or_card": "Axis Bank",
     "headline": "Flat ₹6,000 Off with Axis Bank Credit Card",
+    "description": "Flat ₹6,000 Off with Axis Bank Credit Card",
     "condition": "- Valid on purchases of iPhone 18 Pro and Pro Max models using an eligible Axis Bank Credit Card.\n\n- Offer valid while stocks last.\n\n- Offer is not applicable on cancelled or refunded transactions.\n\n- Zepto reserves the right to modify or revoke the offer and its Terms & Conditions at any time without prior notice.\n\n- Other standard T&Cs may apply.",
     "promo_code": "ZEPIPHONEAXIS",
     "status": "Locked"
   },
   {
-    "bank_or_card": "ICICI",
+    "bank_or_card": "ICICI Bank",
     "headline": "Flat ₹6,000 Off with ICICI Bank Credit Card.",
+    "description": "Flat ₹6,000 Off with ICICI Bank Credit Card.",
     "condition": "- Valid on purchases of iPhone 18 Pro and Pro Max models using an eligible ICICI Bank Credit Card.\n- Offer valid while stocks last.\n- Offer is not applicable on cancelled or refunded transactions.\n- Zepto reserves the right to modify or revoke the offer and its Terms & Conditions at any time without prior notice.\n- Other standard T&Cs may apply.",
     "promo_code": "ZEPIPHONEICICI",
     "status": "Locked"
   },
   {
-    "bank_or_card": "IndusInd",
+    "bank_or_card": "IndusInd Bank",
     "headline": "Flat ₹100 off with IndusInd Bank Credit Cards",
+    "description": "Flat ₹100 off with IndusInd Bank Credit Cards",
     "condition": "- Applicable once per card, per user during the offer period\n- Valid on Induslnd Bank Credit Cards only\n- Terms and conditions apply",
     "promo_code": "ZEPINDCC",
     "status": "Locked"
   },
   {
-    "bank_or_card": "RBL",
+    "bank_or_card": "RBL Bank",
     "headline": "Flat ₹100 off with RBL Bank Credit cards",
+    "description": "Flat ₹100 off with RBL Bank Credit cards",
     "condition": "- Valid once per user during the offer period\n- Valid on RBL Bank Credit card Full swipe transactions only\n- This offer will not be applicable on Commercial and Corporate RBL Bank Credit Cards\n- Other T&C may apply",
     "promo_code": "ZEPRBLCC",
     "status": "Locked"
   },
   {
-    "bank_or_card": "IDFC FIRST",
+    "bank_or_card": "IDFC FIRST Bank",
     "headline": "Flat ₹75 Off with IDFC FIRST Bank Credit Cards",
+    "description": "Flat ₹75 Off with IDFC FIRST Bank Credit Cards",
     "condition": "Valid on transactions above ₹750 only on Sundays",
     "promo_code": "ZEPIDFCCC",
     "status": "Locked"
   },
   {
-    "bank_or_card": "IDFC FIRST",
-    "headline": "Flat ₹125 Off with IDFC FIRST Bank Debit Cards",
-    "condition": "Shop for ₹337 more to unlock",
-    "promo_code": "ZEPIDFCDC",
-    "status": "Locked"
-  },
-  {
-    "bank_or_card": "HSBC",
+    "bank_or_card": "HSBC Bank",
     "headline": "Flat ₹100 off with HSBC Bank Credit Cards",
+    "description": "Flat ₹100 off with HSBC Bank Credit Cards",
     "condition": "- Offer applicable once per user during offer period\n- Valid only on HSBC Credit Cards\n- Other T&Cs may apply",
     "promo_code": "ZEPHSBC",
     "status": "Locked"
   },
   {
-    "bank_or_card": "HDFC",
+    "bank_or_card": "HDFC Mastercard",
     "headline": "Get 15% up to ₹125 off with HDFC Mastercard Debit Cards",
+    "description": "Get 15% up to ₹125 off with HDFC Mastercard Debit Cards",
     "condition": "- Offer is applicable only on select Mastercard HDFC Debit Cards.\n\n- Offer is valid on orders above ₹599.\n\n- Offer is valid only on Tuesdays and Thursdays every week.\n\n- Offer is valid only once per card per user.\n\n- Other terms and conditions may apply",
     "promo_code": "ZEPMAHDFCDC",
     "status": "Locked"
   },
   {
-    "bank_or_card": "Punjab National Bank",
-    "headline": "Flat 15% off with Punjab National Bank Credit Cards",
-    "condition": "- Offer is valid twice per card per month\n- Valid on Punjab National Bank Credit Cards only\n- Terms and conditions apply",
-    "promo_code": "ZEPPNBCC",
-    "status": "Locked"
-  },
-  {
-    "bank_or_card": "SBI",
-    "headline": "Flat 25% off up to ₹200 with SBI Visa Infinite, Signature, Platinum & Business Platinum Debit Cards",
-    "condition": "- Offer applicable on SBI Visa Infinite, Signature, Platinum and Business Platinum Debit Cards\n- Offer is valid on orders above Rs. 599\n- Offer is valid only once per card per user per month\n- Other T&C may apply",
-    "promo_code": "SBIVISADC25",
-    "status": "Locked"
-  },
-  {
-    "bank_or_card": "SBI",
-    "headline": "Flat ₹100 off with SBI Mastercard Debit Card",
-    "condition": "- Offer is applicable only on select Mastercard SBI Debit Cards\n- Offer is valid on orders above ₹399\n- Offer is valid only thrice per card per user\n- Other terms and conditions may apply",
-    "promo_code": "ZEPMASBIDC100",
-    "status": "Locked"
-  },
-  {
     "bank_or_card": "Federal Bank",
     "headline": "Get 10% off up to ₹150 with Federal Bank Credit Cards",
+    "description": "Get 10% off up to ₹150 with Federal Bank Credit Cards",
     "condition": "- Offer is valid once per card per month\n- Valid on Federal Bank Credit Cards only\n- Offer is valid only on Saturday and Sundays every week during the campaign period\n- Other Terms and conditions apply",
     "promo_code": "ZEPFEDCC",
     "status": "Locked"
@@ -114,6 +226,7 @@
   {
     "bank_or_card": "YES Bank",
     "headline": "Flat ₹100 off with YES Bank Credit Cards",
+    "description": "Flat ₹100 off with YES Bank Credit Cards",
     "condition": "- Offer applicable once per user\n\n- Offer valid once per card per month\n\n- Offer valid for orders above ₹1250\n\n- Offer is valid only on Friday, Saturday and Sunday of every week during the campaign period\n\n- Other T&C may apply",
     "promo_code": "ZEPYESCC",
     "status": "Locked"
@@ -121,6 +234,7 @@
   {
     "bank_or_card": "Federal Bank",
     "headline": "Flat 10% up to ₹125 off with Federal Bank Debit Cards",
+    "description": "Flat 10% up to ₹125 off with Federal Bank Debit Cards",
     "condition": "- Offer is valid once per card per month\n- Valid on Federal Bank Debit Cards only\n- Offer is valid only on Saturday and Sundays every week during the campaign period\n- Other Terms and conditions apply",
     "promo_code": "ZEPFEDDC",
     "status": "Locked"
@@ -128,120 +242,41 @@
   {
     "bank_or_card": "DBS Bank",
     "headline": "Flat ₹75 off with DBS Bank Credit Cards",
+    "description": "Flat ₹75 off with DBS Bank Credit Cards",
     "condition": "- Applicable once per card, per user during the offer period\n- Valid on DBS Bank Vantage & Spark Credit Cards only\n- Offer is valid only on Friday, Saturday and Sunday of every week during the campaign period\n- Other terms and conditions may apply",
     "promo_code": "ZEPDBSCC",
     "status": "Locked"
   },
   {
-    "bank_or_card": null,
+    "bank_or_card": "Visa Platinum",
     "headline": "Flat ₹100 off with Visa Platinum Credit Cards",
+    "description": "Flat ₹100 off with Visa Platinum Credit Cards",
     "condition": "- Offer applicable once per user per month on Visa Platinum Credit Cards.\n- Valid only on the Zepto App in cities where Zepto operates.\n- Zepto reserves the right to modify or revoke the offer and its terms at any time without prior notice.\n- Standard terms and conditions apply.",
     "promo_code": "VISAPLATINUMCC",
     "status": "Locked"
   },
   {
-    "bank_or_card": null,
-    "headline": "Flat ₹75 off with Visa Platinum Debit Cards.",
-    "condition": "- Offer applicable once per user per month on Platinum Debit Cards.\n\n- Valid only on the Zepto App in cities where Zepto operates.\n\n- Zepto reserves the right to modify or revoke the offer and its terms at any time without prior notice.\n\n- Standard terms and conditions apply.",
-    "promo_code": "VISAPLATINUMDC",
-    "status": "Locked"
-  },
-  {
     "bank_or_card": "AU",
-    "headline": "Flat ₹50 off with AU credit cards",
-    "condition": "- Offer applicable once per user\n- Offer valid once per card per month\n- Offer valid for orders above ₹500\n- Other T&C may apply",
-    "promo_code": "ZEPAUCC",
+    "headline": "Get 5% upto ₹1000 off with AU Credit Cards",
+    "description": "Get 5% upto ₹1000 off with AU Credit Cards",
+    "condition": "- Valid once per user during the offer period\n- Valid only on products above ₹5000\n- Valid only on select Electronics and Appliances\n- This offer will not be applicable on Commercial and Corporate RBL Bank Credit Cards\n- Offer is valid only on Friday, Saturday and Sunday\n- Other T&C may apply",
+    "promo_code": "ZEPAUHV",
     "status": "Locked"
   },
   {
-    "bank_or_card": "IDBI Bank",
-    "headline": "Get 10% off up to ₹100 with IDBI Bank Debit Cards",
-    "condition": "- Applicable once per card, per user\n- Valid on IDBI Debit Cards\n- Other terms and conditions apply",
-    "promo_code": "ZEPIDBIDC",
-    "status": "Locked"
-  },
-  {
-    "bank_or_card": "IDBI Bank",
-    "headline": "Get flat 10% up to ₹100 off with IDBI Bank Credit Cards",
-    "condition": "- Applicable once per card, per user\n- Valid on IDBI Credit Cards\n- Other terms and conditions apply",
-    "promo_code": "ZEPIDBICC",
-    "status": "Locked"
-  },
-  {
-    "bank_or_card": "Indian Bank",
-    "headline": "Get 15% up to ₹120 off with Indian Bank Credit Cards",
-    "condition": "- Offer applicable only twice per user in a calendar month\n- Offer is valid on orders above ₹299\n- Max Discount offered will be ₹120\n- Terms and conditions apply",
-    "promo_code": "INDIANBANKCC",
-    "status": "Locked"
-  },
-  {
-    "bank_or_card": null,
-    "headline": "Get ₹50 off with Novio Credit Card",
-    "condition": "Valid on orders above ₹499",
-    "promo_code": "NOVIO50",
-    "status": "Locked"
-  },
-  {
-    "bank_or_card": "IDFC FIRST",
-    "headline": "Get 10% off up to ₹50 with IDFC FIRST SWYP Credit Card",
-    "condition": "- Offer applicable once per user\n- Valid only on IDFC FIRST SWYP Credit Card\n- Other T&C may apply",
-    "promo_code": "ZEPTOSWYP",
-    "status": "Locked"
-  },
-  {
-    "bank_or_card": "Indian Overseas Bank",
-    "headline": "Get Flat 15% off with Indian Overseas Bank Credit Cards",
-    "condition": "- Offer is valid twice per card per month\n- The maximum discount available is ₹100\n- Valid on Indian Overseas Bank Credit cards only\n- Additional T&C may apply",
-    "promo_code": "ZEPIOBCC",
-    "status": "Locked"
-  },
-  {
-    "bank_or_card": "Jana Bank",
-    "headline": "Get 10% off up to ₹100 with Jana Bank Debit Cards",
-    "condition": "- Offer applicable only on RuPay Select and Rupay Platinum Debit Cards\n- Offer applicable only once per user per month\n- Offer valid only once per card per month\n- Offer valid only on orders above ₹500\n- Other Terms & Conditions Apply",
-    "promo_code": "ZEPJANA",
-    "status": "Locked"
-  },
-  {
-    "bank_or_card": null,
-    "headline": "Flat ₹75 off with Visa Classic Debit Cards.",
-    "condition": "- Offer applicable once per user per month on Classic Debit Cards.\n\n- Valid only on the Zepto App in cities where Zepto operates.\n\n- Zepto reserves the right to modify or revoke the offer and its terms at any time without prior notice.\n\n- Standard terms and conditions apply.",
-    "promo_code": "VISACLASSICDC",
-    "status": "Locked"
-  },
-  {
-    "bank_or_card": "AU",
-    "headline": "Get 15% off with AU Ivy, Eternity, Royale & M Circle Program Debit Cards",
-    "condition": "- Offer applicable once per user\n- Offer valid once per card per month\n- Offer valid on AU ivy, Eternity, Royale & M circle linked Debit Cards\n- Offer valid for orders above ₹599\n- Other T&C may apply",
-    "promo_code": "ZEPAUDC",
-    "status": "Locked"
-  },
-  {
-    "bank_or_card": "SBI",
-    "headline": "Get 15% off with SBI Visa Global / Classic & Gold Debit Cards",
-    "condition": "- Offer is applicable only on SBI Visa Global / Classic & Gold Debit Cards\n- Offer is valid on orders above ₹599\n- Offer is valid only once per card per user per month\n- Other T&C may apply",
-    "promo_code": "SBIVISADC15",
-    "status": "Locked"
-  },
-  {
-    "bank_or_card": "RBL",
-    "headline": "Flat 5% off up to ₹750 with RBL Bank Credit Cards",
-    "condition": "- Valid once per user during the offer period\n- Valid on only products above ₹5000\n- Valid only on Electronics and Appliances (except Smartphones)\n- This offer will not be applicable on Commercial and Corporate RBL Bank Credit Cards\n- Other T&C may apply",
-    "promo_code": "ZEPRBLHV",
-    "status": "Locked"
-  },
-  {
-    "bank_or_card": "HSBC",
+    "bank_or_card": "HSBC Bank",
     "headline": "Flat 5% off up to ₹750 with HSBC Bank Credit Cards",
+    "description": "Flat 5% off up to ₹750 with HSBC Bank Credit Cards",
     "condition": "- Valid once per user during the offer period\n- Valid on only products above ₹5000\n- Offer is valid only on Electronics and Appliances (except Smartphones)\n- Other T&C may apply",
     "promo_code": "ZEPHSBCHV",
     "status": "Locked"
   },
   {
-    "bank_or_card": "AU",
-    "headline": "Get 5% upto ₹1000 off with AU Credit Cards",
-    "condition": "- Valid once per user during the offer period\n- Valid only on products above ₹5000\n- Valid only on select Electronics and Appliances\n- This offer will not be applicable on Commercial and Corporate RBL Bank Credit Cards\n- Offer is valid only on Friday, Saturday and Sunday\n- Other T&C may apply",
-    "promo_code": "ZEPAUHV",
+    "bank_or_card": "RBL Bank",
+    "headline": "Flat 5% off up to ₹750 with RBL Bank Credit Cards",
+    "description": "Flat 5% off up to ₹750 with RBL Bank Credit Cards",
+    "condition": "- Valid once per user during the offer period\n- Valid on only products above ₹5000\n- Valid only on Electronics and Appliances (except Smartphones)\n- This offer will not be applicable on Commercial and Corporate RBL Bank Credit Cards\n- Other T&C may apply",
+    "promo_code": "ZEPRBLHV",
     "status": "Locked"
   }
 ]
