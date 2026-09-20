@@ -69,7 +69,7 @@ def parse_card(card):
 
 def main():
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=False)
+        browser = p.chromium.launch(headless=True)
         context = browser.new_context(storage_state=AUTH_STATE_FILE)
         page = context.new_page()
 
